@@ -673,4 +673,11 @@ footer {
     position: absolute;
     top: 8px;
     right: 8px;
+
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 50%;
+    background-color: var(--main-white); 
+    fill: #000000;
+    height: 30px;
+    width: 30px;
 }
